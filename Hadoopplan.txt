@@ -1,0 +1,10 @@
+Lesson 00 - Course Introduction 14 Topics & 0 Quiz 00:11:08
+Lesson 01 - Introduction to Big Data and Hadoop 27 Topics & 1 Quiz 00:17:24
+Lesson 02 - Hadoop Architecture 33 Topics & 1 Quiz 00:25:22
+Lesson 03 - Hadoop Deployment 19 Topics & 1 Quiz 00:05:34
+Lesson 04 - Introduction to MapReduce 53 Topics & 1 Quiz 00:52:32
+Lesson 05 - Advanced HDFS and MapReduce 34 Topics & 1 Quiz 00:25:19
+Lesson 06 - Pig 36 Topics & 1 Quiz 00:50:40
+Lesson 07 - Hive 38 Topics & 1 Quiz 00:27:29
+Lesson 08 - HBase 26 Topics & 1 Quiz 00:20:57
+Lesson 09 - Commercial Distribution of Hadoop
